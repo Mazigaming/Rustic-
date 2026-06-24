@@ -1,0 +1,8 @@
+struct Point {
+    x: Float,
+    y: Float,
+}
+
+fn distance(p: Point) -> Float {
+    return p.x * p.x + p.y * p.y;
+}

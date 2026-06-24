@@ -1,0 +1,14 @@
+[package]
+name = "rustic-compiler"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+logos = "0.14"
+chumsky = "0.9"
+codespan-reporting = "0.12"
+ariadne = "0.5"
+
+[[bin]]
+name = "rcpp"
+path = "src/main.rs"

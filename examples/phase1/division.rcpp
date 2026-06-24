@@ -1,0 +1,5 @@
+fn main() -> Int {
+    let x = 10;
+    let y = 3;
+    return x / y;
+}

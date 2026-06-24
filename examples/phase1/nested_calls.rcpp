@@ -1,0 +1,11 @@
+fn add(a: Int, b: Int) -> Int {
+    return a + b;
+}
+
+fn main() -> Int {
+    let a = 1;
+    let b = 2;
+    let c = 3;
+    let d = add(add(a, b), c);
+    return d;
+}

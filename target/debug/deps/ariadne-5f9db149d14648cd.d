@@ -1,0 +1,12 @@
+/home/mazito/Documents/burnout/rustic-plusplus/target/debug/deps/ariadne-5f9db149d14648cd.d: /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/lib.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/display.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/draw.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/source.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/write.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/../README.md
+
+/home/mazito/Documents/burnout/rustic-plusplus/target/debug/deps/libariadne-5f9db149d14648cd.rlib: /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/lib.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/display.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/draw.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/source.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/write.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/../README.md
+
+/home/mazito/Documents/burnout/rustic-plusplus/target/debug/deps/libariadne-5f9db149d14648cd.rmeta: /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/lib.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/display.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/draw.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/source.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/write.rs /home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/../README.md
+
+/home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/lib.rs:
+/home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/display.rs:
+/home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/draw.rs:
+/home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/source.rs:
+/home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/write.rs:
+/home/mazito/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ariadne-0.5.1/src/../README.md:
