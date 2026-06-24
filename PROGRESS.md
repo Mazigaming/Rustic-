@@ -14,7 +14,13 @@
 - [x] Parser gives useful line/column error messages on malformed input
 - [x] 20+ example programs in examples/phase1/ all parse without crashing
 
-## Phase 2 — Tree-Walking Interpreter (pending)
+## Phase 2 — Tree-Walking Interpreter (in progress)
+- [x] Implement interpreter with eval_expr and eval_stmt
+- [x] Support for functions, if/else, loops, expressions
+- [x] Assignment expressions work correctly
+- [x] 15+ example programs execute correctly
+- [ ] Deep recursion causes stack overflow (limitation of recursive interpreter)
+
 ## Phase 3 — Type System & Semantic Analysis (pending)
 ## Phase 4 — C Interop (pending)
 ## Phase 5 — Native Codegen Backend (pending)

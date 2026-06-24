@@ -9,6 +9,5 @@ chumsky = "0.9"
 codespan-reporting = "0.12"
 ariadne = "0.5"
 
-[[bin]]
-name = "rcpp"
-path = "src/main.rs"
+[dev-dependencies]
+rustic-interp = { path = "../interp" }

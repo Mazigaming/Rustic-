@@ -1,0 +1,7 @@
+[package]
+name = "rustic-interp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rustic-compiler = { path = "../compiler" }
