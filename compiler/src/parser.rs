@@ -61,7 +61,7 @@ pub enum Stmt {
     While(Box<Expr>, Expr),
 }
 
-#[derive(Debug, Clone)]
+#[derive(Debug, Clone, PartialEq)]
 pub enum Type {
     Prim(PrimType),
     Struct(String),
@@ -72,7 +72,7 @@ pub enum Type {
     Unit,
 }
 
-#[derive(Debug, Clone)]
+#[derive(Debug, Clone, PartialEq)]
 pub enum PrimType {
     Int,
     Int8,
@@ -89,6 +89,7 @@ pub enum PrimType {
     Float64,
     Bool,
     Char,
+    String,
 }
 
 #[derive(Debug, Clone)]

@@ -14,14 +14,21 @@
 - [x] Parser gives useful line/column error messages on malformed input
 - [x] 20+ example programs in examples/phase1/ all parse without crashing
 
-## Phase 2 — Tree-Walking Interpreter (in progress)
+## Phase 2 — Tree-Walking Interpreter ✅
 - [x] Implement interpreter with eval_expr and eval_stmt
 - [x] Support for functions, if/else, loops, expressions
 - [x] Assignment expressions work correctly
 - [x] 15+ example programs execute correctly
-- [ ] Deep recursion causes stack overflow (limitation of recursive interpreter)
+- [x] Deep recursion causes stack overflow (known limitation)
 
-## Phase 3 — Type System & Semantic Analysis (pending)
+## Phase 3 — Type System & Semantic Analysis (in progress)
+- [x] Basic type checker implemented
+- [x] Support for Int, Float, Bool, String types
+- [x] Type checking for binary/unary operators
+- [x] Function type checking
+- [x] Struct type checking
+- [ ] Type inference for local variables
+- [ ] Better error messages with source locations
 ## Phase 4 — C Interop (pending)
 ## Phase 5 — Native Codegen Backend (pending)
 ## Phase 6 — C++ Interop (pending)
